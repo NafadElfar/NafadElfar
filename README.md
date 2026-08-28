@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nafad Ayman
+# Hi 👋, I'm Nafad Elfar
 
 ### 💻 Full-Stack Developer | Computer Science Student
 
