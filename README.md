@@ -193,29 +193,28 @@ Gained practical exposure to enterprise software workflows, engineering standard
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="./profile/stats.svg" width="49%" alt="Nafad Elfar GitHub Stats">
+  <img src="./profile/top-langs.svg" width="49%" alt="Nafad Elfar Top Languages">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NafadElfar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NafadElfar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/NafadElfar?label=Followers&style=flat-square" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/NafadElfar?label=Total%20Stars&style=flat-square" alt="GitHub Stars">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafadElfar&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top Languages">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=NafadElfar&hide_border=true" height="165" alt="GitHub Streak">
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NafadElfar&hide_border=true" width="95%" alt="GitHub Activity Graph">
-
-</div>
+> 📌 **Stats are generated and stored directly in this repository**, so they don't depend on a public stats server. GitHub Actions updates the cards automatically every day.
 
 ---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/NafadElfar">
+    <img src="https://img.shields.io/badge/View%20Full%20Contribution%20Graph-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Contribution Graph">
+  </a>
+</p>
 
 ## 🎓 Education & Training
 
